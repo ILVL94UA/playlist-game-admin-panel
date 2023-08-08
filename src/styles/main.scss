@@ -1,0 +1,18 @@
+// @import "vars";
+// @import "layout";
+// @import "theme";
+
+
+.sidebar .v-btn__content {
+  justify-content: flex-start;
+}
+
+// ::-webkit-scrollbar { /* Webkit */
+//   width      : 0;  /* ширина scrollbar'a */
+//   background : transparent  /* опционально */
+// }
+
+// html {
+//   -ms-overflow-style : none;  /* IE 10+ */
+//   scrollbar-width    : none /* Firefox */
+// }
